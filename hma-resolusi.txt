@@ -2,3 +2,4 @@ HMA Resolusi
 - Mengerti tentang git dan github
 - Diterima kerja pada tahun 2023
 - Konsisten belajar
+- Memulai baca buku
