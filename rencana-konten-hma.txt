@@ -1,3 +1,5 @@
 Rencana Konten HMA
 - Vid JS
+ * FR JS
 - Vid PHP Fr
+ * CI 3
