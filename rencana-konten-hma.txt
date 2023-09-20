@@ -1,6 +1,10 @@
 Rencana Konten HMA
 - Vid JS
  * FR JS
+  ^ Veu
+  ^ React
 - Vid PHP Fr
  * CI 3
+ * Laravel
 - Struktur Data Dasar
+- Python
